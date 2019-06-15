@@ -1397,7 +1397,7 @@ describe("Route Generator", () => {
     })
 })
 
-describe("Router with external controller", () => {
+describe("Route generator with external controller", () => {
 
     it("Should load controllers", async () => {
         consoleLog.startMock()
