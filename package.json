@@ -21,7 +21,7 @@
 		"babel-core": "^6.26.3",
 		"coveralls": "^3.0.4",
 		"del": "^5.0.0",
-		"edit-json-file": "^1.2.1",
+		"edit-json-file": "1.2.1",
 		"jest": "^24.8.0",
 		"lerna": "3.15.0",
 		"pre-push": "^0.1.1",
