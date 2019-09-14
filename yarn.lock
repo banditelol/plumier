@@ -7714,6 +7714,13 @@ tinspector@^2.2.2:
   dependencies:
     reflect-metadata "^0.1.13"
 
+tinspector@^2.2.3:
+  version "2.2.3"
+  resolved "https://registry.yarnpkg.com/tinspector/-/tinspector-2.2.3.tgz#1c8ff66eee90b7571c508371775f1e6e60483fe4"
+  integrity sha512-ttcN5pr1SaliDIxNxwtzsOsusqPJUk+7LFhUMofCFSVYgsc40J26WshhMey7IKksUmTeFTE2LWM/5QZmjaWbGQ==
+  dependencies:
+    reflect-metadata "^0.1.13"
+
 tmp@^0.0.33:
   version "0.0.33"
   resolved "https://registry.yarnpkg.com/tmp/-/tmp-0.0.33.tgz#6d34335889768d21b2bcda0aa277ced3b1bfadf9"
